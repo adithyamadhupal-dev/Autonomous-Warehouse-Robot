@@ -1,0 +1,25 @@
+AUTONOMOUS WAREHOUSE ROBOT - QUICK START
+
+1. Extract the ZIP file.
+2. Open the extracted folder.
+3. Double-click run_windows.bat.
+4. Allow Python to install Pygame.
+5. The simulation starts automatically.
+
+Keyboard:
+SPACE = Pause/resume
+R = Restart
+N = Skip current task
+ESC = Exit
+
+Generated report:
+output\task_report.csv
+
+
+IMPORTANT:
+The launcher now automatically uses Python 3.10, 3.11, or 3.12.
+It deliberately avoids Python 3.14 because Pygame installation may fail.
+
+If run_windows.bat fails:
+1. Double-click FIX_PYGAME.bat.
+2. Then run run_windows.bat again.
