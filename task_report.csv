@@ -1,0 +1,5 @@
+task_id,item_name,priority,pickup,dropoff,distance_cells,route_replans,completion_time_seconds,status
+T-001,Blue Motor Box,1,"(2, 2)","(13, 2)",21,1,7.89,COMPLETED
+T-002,Red Sensor Kit,2,"(5, 8)","(13, 8)",24,0,8.44,COMPLETED
+T-003,Green Battery Pack,3,"(9, 2)","(1, 8)",24,0,8.46,COMPLETED
+T-004,Purple Controller,4,"(9, 8)","(13, 5)",17,0,6.6,COMPLETED
